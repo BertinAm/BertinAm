@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 
 <a href="ttps://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BertinAM&theme=tokyonight&hide_border=true&line_height=30/"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BertinAm&theme=tokyonight&hide_border=true&line_height=30/"> 
 </a>
