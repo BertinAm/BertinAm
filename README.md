@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with **Backend and DataBases.**
 - 💬 Ask me about **Tech related stuffs and how to cope with anxieties.**
 - ⚡ Fun fact: **Football, Compose Music, Reading, Listen to music.**
-- 📫 How to reach me: **fongebertin**.
 - [![wakatime](https://wakatime.com/badge/user/6bc7d279-4c45-4967-a549-814b4c255d77.svg)](https://wakatime.com/@6bc7d279-4c45-4967-a549-814b4c255d77)
 
 <h2>Connect with me:</h2>
