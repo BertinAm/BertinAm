@@ -1,6 +1,6 @@
 <h1 style = "text-align: center;"> Hi there 👋 I'm Bertin Fonge.</h1>
 
-- 🎯 My Goal is to **learn new skils on a daily basis**
+- 🎯 My Goal is to **learn new skills on a daily basis**
 - 🔭 I’m currently working **on Frontend Technologies.**
 - 🌱 I’m currently learning **Python, Html and Css, Database, Wordpress.**
 - 👯 I’m looking to collaborate **on Frontend Projects.**
