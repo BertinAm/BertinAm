@@ -9,7 +9,6 @@
 - ⚡ Fun fact: **Football, Compose Music, Reading, Listen to music.**
 - [![wakatime](https://wakatime.com/badge/user/6bc7d279-4c45-4967-a549-814b4c255d77.svg)](https://wakatime.com/@6bc7d279-4c45-4967-a549-814b4c255d77)
 
-<h2>Connect with me:</h2>
 
 
 <h2 align="left">Languages and Tools:</h2>
