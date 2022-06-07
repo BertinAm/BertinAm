@@ -1,3 +1,4 @@
+<img src= "https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header pic">
 <h1 style = "text-align: center;"> Hi there 👋 I'm Bertin Fonge.</h1>
 
 - 🎯 My Goal is to **learn new skills on a daily basis**
@@ -45,3 +46,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  ...
 -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+
