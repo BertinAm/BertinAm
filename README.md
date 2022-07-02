@@ -1,5 +1,5 @@
 <img src= "https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header pic">
-<h1 align="center">Hi 👋, I'm Bertin FOnge</h1>
+<h1 align="center">Hi 👋, I'm Bertin Fonge</h1>
 <h3 align="center">A passionate Python Developer</h3>
 
 - 🎯 My Goal is to **learn new skills on a daily basis**
