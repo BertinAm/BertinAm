@@ -1,7 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Bertin Fonge</h1>
-<h3 align="center">A passionate Python Developer</h3>
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertinAm&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
