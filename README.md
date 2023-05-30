@@ -12,9 +12,7 @@
 [![wakatime](https://wakatime.com/badge/user/6bc7d279-4c45-4967-a549-814b4c255d77.svg)](https://wakatime.com/@6bc7d279-4c45-4967-a549-814b4c255d77)<br>
 ![](https://komarev.com/ghpvc/?username=BertinAm&color=blueviolet)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BertinAm&theme=tokyonight&hide_border=true&line_height=30/"> 
-</a>
+
 
 <a href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BertinAm&theme=tokyonight&hide_border=true&format=[Y.]n.j"/>
